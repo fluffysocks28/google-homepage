@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#center {
+    text-align: center;
+    margin-top: 144px;
+}
+
+.searchBar {
+    float: center;
+}
+
+#navbar {
+    position: absolute;
+    font-size: 13px;
+    padding: 14px 14px 0 14px;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.sign-in {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    margin: 0 10px 0 10px;
+    padding-right: 13px;
+    padding-left: 13px;
+}
+
+.alignLeft {
+    float: left;
+}
+
+.alignRight {
+    float: right;
+}
